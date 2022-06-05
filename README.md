@@ -1,5 +1,7 @@
 # Github-Profiles-App
 It makes you Search Github user by their username
+
+
 ![screenshot](./images/screenshot.png)
 ### Features ###
 * See User Profile
